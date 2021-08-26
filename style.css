@@ -1,0 +1,42 @@
+.navbar{
+    background-color: blueviolet;
+
+}
+#newPost{
+    border: none;
+    box-shadow: none;
+    background: none;
+}
+#cancel{
+    border: none;
+    box-shadow: none;
+    background: none;
+}
+#newPost:hover{
+    color: rgb(255, 255, 255);
+    display: block;
+
+}
+
+#cancel:hover{
+    color: rgb(255, 255, 255);
+    display: block;
+
+}
+.btn{
+    float: right;
+    margin-top: 5px;
+}
+.card{
+    margin-top: 50px;
+    
+}
+#forms{
+    display: none;
+}
+#cancel{
+    display: none;
+}
+#iconTitle{
+    border-radius: 50%;
+}
